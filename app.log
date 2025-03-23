@@ -1,0 +1,99 @@
+2025-03-21 10:52:54,908 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 10:52:54,908 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 10:52:54,911 - INFO -  * Restarting with stat
+2025-03-21 10:52:57,976 - WARNING -  * Debugger is active!
+2025-03-21 10:52:57,982 - INFO -  * Debugger PIN: 963-099-527
+2025-03-21 10:52:59,831 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-21 10:52:59,840 - INFO - 127.0.0.1 - - [21/Mar/2025 10:52:59] "[35m[1mPOST /rank HTTP/1.1[0m" 500 -
+2025-03-21 10:53:55,467 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 10:53:55,468 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 10:53:55,471 - INFO -  * Restarting with stat
+2025-03-21 10:53:58,753 - WARNING -  * Debugger is active!
+2025-03-21 10:53:58,766 - INFO -  * Debugger PIN: 963-099-527
+2025-03-21 16:56:31,784 - INFO - Use pytorch device_name: cpu
+2025-03-21 16:56:31,784 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 16:56:38,833 - WARNING -  * Debugger is active!
+2025-03-21 16:56:38,845 - INFO -  * Debugger PIN: 963-099-527
+2025-03-21 16:57:41,628 - INFO - Use pytorch device_name: cpu
+2025-03-21 16:57:41,629 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 16:57:45,826 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 16:57:45,827 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 16:57:45,832 - INFO -  * Restarting with stat
+2025-03-21 16:58:06,827 - INFO - Use pytorch device_name: cpu
+2025-03-21 16:58:06,827 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 16:58:18,559 - WARNING -  * Debugger is active!
+2025-03-21 16:58:18,582 - INFO -  * Debugger PIN: 963-099-527
+2025-03-21 16:58:28,977 - INFO - Resumes ranked successfully
+2025-03-21 16:58:28,979 - INFO - 127.0.0.1 - - [21/Mar/2025 16:58:28] "POST /rank HTTP/1.1" 200 -
+2025-03-21 17:15:16,715 - INFO - Use pytorch device_name: cpu
+2025-03-21 17:15:16,715 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 17:15:27,452 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 17:15:27,453 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 17:15:27,459 - INFO -  * Restarting with stat
+2025-03-21 17:15:44,773 - INFO - Use pytorch device_name: cpu
+2025-03-21 17:15:44,773 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 17:15:48,690 - WARNING -  * Debugger is active!
+2025-03-21 17:15:48,700 - INFO -  * Debugger PIN: 963-099-527
+2025-03-21 17:33:22,672 - INFO - 127.0.0.1 - - [21/Mar/2025 17:33:22] "[33mPOST / HTTP/1.1[0m" 404 -
+2025-03-21 17:33:43,531 - INFO - Resumes ranked successfully
+2025-03-21 17:33:43,532 - INFO - 127.0.0.1 - - [21/Mar/2025 17:33:43] "POST /rank HTTP/1.1" 200 -
+2025-03-21 17:49:39,772 - INFO - Use pytorch device_name: cpu
+2025-03-21 17:49:39,773 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 17:49:44,903 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 17:49:44,904 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 23:38:24,244 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:38:24,245 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:38:29,850 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 23:38:29,850 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 23:40:32,686 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:40:32,687 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:40:37,046 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 23:40:37,047 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 23:40:37,055 - INFO -  * Restarting with stat
+2025-03-21 23:40:55,427 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:40:55,428 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:41:00,248 - INFO - Serving on http://0.0.0.0:5000
+2025-03-21 23:41:42,609 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:41:42,609 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:41:47,681 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 23:41:47,681 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 23:41:47,687 - INFO -  * Restarting with stat
+2025-03-21 23:42:07,578 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:42:07,578 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:42:13,633 - WARNING -  * Debugger is active!
+2025-03-21 23:42:13,647 - INFO -  * Debugger PIN: 963-099-527
+2025-03-21 23:43:38,464 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:43:38,464 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:44:19,242 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 23:44:19,242 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 23:44:19,245 - INFO -  * Restarting with stat
+2025-03-21 23:44:38,871 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:44:38,871 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:45:24,907 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:45:24,908 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:45:30,592 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 23:45:30,592 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 23:45:55,783 - INFO - 127.0.0.1 - - [21/Mar/2025 23:45:55] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-21 23:45:55,902 - INFO - 127.0.0.1 - - [21/Mar/2025 23:45:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-21 23:51:02,469 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:51:02,469 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:51:08,193 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-21 23:51:08,194 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-21 23:51:08,198 - INFO -  * Restarting with stat
+2025-03-21 23:51:26,318 - INFO - Use pytorch device_name: cpu
+2025-03-21 23:51:26,318 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-21 23:51:32,859 - WARNING -  * Debugger is active!
+2025-03-21 23:51:32,872 - INFO -  * Debugger PIN: 963-099-527
+2025-03-21 23:55:02,236 - INFO -  * Detected change in 'C:\\Users\\hp\\ai_resume_ranker\\app.py', reloading
+2025-03-21 23:55:04,067 - INFO -  * Restarting with stat
